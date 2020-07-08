@@ -16,6 +16,3 @@ class Dog
     @breed
   end 
 end 
-
-eli = Dog.new
-eli.name
