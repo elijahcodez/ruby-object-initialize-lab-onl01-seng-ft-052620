@@ -17,4 +17,4 @@ class Dog
   end 
 end 
 
-Eli = Dog.new
+eli = Dog.new
